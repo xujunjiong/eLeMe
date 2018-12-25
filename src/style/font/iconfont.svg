@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="arrow_lift" unicode="&#58890;" d="M246.784 427.690667L689.834667 870.4c24.917333 24.917333 62.464 24.917333 87.381333 0s24.917333-62.464 0-87.381333l-399.36-399.36 399.36-399.36c24.917333-24.917333 24.917333-62.464 0-87.381334-24.917333-24.917333-62.464-24.917333-87.381333 0L246.784 340.309333c-24.917333 24.917333-24.917333 62.464 0 87.381334z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="add_circle" unicode="&#58891;" d="M726 342v84h-172v172h-84v-172h-172v-84h172v-172h84v172h172zM512 810q176 0 301-125T938 384t-125-301T512-42t-301 125T86 384t125 301T512 810z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="check_circle" unicode="&#58892;" d="M426 170l384 384-60 62-324-324-152 152-60-60z m86 640q176 0 301-125T938 384t-125-301T512-42t-301 125T86 384t125 301T512 810z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="favorite" unicode="&#58893;" d="M512-14l-62 56c-220 200-364 330-364 492C86 666 188 768 320 768c74 0 146-36 192-90C558 732 630 768 704 768c132 0 234-102 234-234 0-162-144-294-364-494z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="close" unicode="&#58894;" d="M810 622L572 384l238-238-60-60L512 324 274 86l-60 60L452 384 214 622l60 60L512 444l238 238z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="keyboard_arrow_right" unicode="&#58895;" d="M366 198l196 196-196 196 60 60 256-256-256-256z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="shopping_cart" unicode="&#58896;" d="M726 128q34 0 59-26t25-60-25-59-59-25-60 25T640 42t26 60 60 26zM42 810h140l40-84h632q18 0 30-13t12-31q0-10-6-20l-152-276q-24-44-74-44H346L308 272l-2-6q0-10 10-10h494v-86h-512q-34 0-59 26t-25 60q0 20 10 40l58 106L128 726H42v84z m256-682q34 0 60-26t26-60-26-59-60-25-59 25-25 59 25 60T298 128z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="thumb_up" unicode="&#58897;" d="M982 470l-2-4h2V384q0-16-6-32l-130-300q-20-52-78-52H384q-34 0-60 26t-26 60V512q0 34 26 60L604 854 650 808Q668 790 668 764v-14l-42-196H896q34 0 60-25t26-59zM42 0V512h172v-512h-172z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="remove_circle_outlin" unicode="&#58898;" d="M512 42q140 0 241 101T854 384t-101 241T512 726t-241-101T170 384t101-241T512 42z m0 768q176 0 301-125T938 384t-125-301T512-42t-301 125T86 384t125 301T512 810z m-214-384h428v-84h-428v84z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="thumb_down" unicode="&#58899;" d="M810 768h172v-512h-172V768zM640 768q34 0 60-26t26-60V256q0-34-26-60L420-86 374-40Q356-22 356 4v14l42 196H128q-34 0-60 25T42 298l2 4h-2V384q0 16 6 32l130 300q20 52 78 52h384z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
