@@ -13,7 +13,7 @@ Vue.use(VueRouter);
 
 Vue.prototype.$http = axios;
 const routes = [
-	// {path:'/',component:goods},
+	{path:'/',component:goods},
 	{
 		path: '/goods',
 		component: goods
@@ -36,4 +36,4 @@ new Vue({
 	render: h => h(App),
 	router
 })
-router.replace('goods');
+// router.replace('goods');
